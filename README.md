@@ -13,7 +13,7 @@ Feature:
 - Print Receipt
 - Proof of payment
 
-Special Reference To Front-End Displays: https://colorlib.com/wp/template/coffee-blend/
+Special Reference To Front-End Displays: [Colorlib](https://colorlib.com/wp/template/coffee-blend/)
 
 # UI View (Customer)
 ![alt text](https://github.com/muharyaanandas/Cafe-Apps/blob/main/Tampilan_UI/menu.png?raw=true)
