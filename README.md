@@ -3,6 +3,8 @@ This web application theme is designed to facilitate ordering drinks and food in
 
 This web application uses a MySQL Database with PHP Native (Version 8.1)
 
+If you want to need a database file, you can call/DM my WhatsApp, namely +62 85696520529
+
 Feature:
 - Customer CRUD (Admin)
 - Product CRUD (Admin)
