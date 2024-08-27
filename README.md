@@ -19,6 +19,7 @@ Special Reference To Front-End Displays: https://colorlib.com/wp/template/coffee
 ![alt text](https://github.com/muharyaanandas/Cafe-Apps/blob/main/Tampilan_UI/menu.png?raw=true)
 ![alt text](https://github.com/muharyaanandas/Cafe-Apps/blob/main/Tampilan_UI/tentang.png?raw=true)
 ![alt text](https://github.com/muharyaanandas/Cafe-Apps/blob/main/Tampilan_UI/kontak.png?raw=true)
+![alt text](https://github.com/muharyaanandas/Cafe-Apps/blob/main/Tampilan_UI/PesanKontakBerhasil.png?raw=true)
 ![alt text](https://github.com/muharyaanandas/Cafe-Apps/blob/main/Tampilan_UI/login.png?raw=true)
 ![alt text](https://github.com/muharyaanandas/Cafe-Apps/blob/main/Tampilan_UI/register.png?raw=true)
 ![alt text](https://github.com/muharyaanandas/Cafe-Apps/blob/main/Tampilan_UI/keranjang.png?raw=true)
